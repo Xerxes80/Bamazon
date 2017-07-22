@@ -23,7 +23,7 @@ This Application has three different levels
 	update the sales data in department table
 
 
-![GitHub Logo](/images/customerBuy.png)
+	![GitHub Logo](/images/customerBuy.png)
 
 
 	**L-2: Manager Level**
@@ -39,36 +39,36 @@ This Application has three different levels
 	Option4: Add New Product
 
 
-**View Products for Sale**
+	**View Products for Sale**
 
-Option1: Shows all the products
-
-
-![GitHub Logo](/images/managerview.png)
+	Option1: Shows all the products
 
 
-**View Low Inventory**
-
-Option2: Shows low inventory
+	![GitHub Logo](/images/managerview.png)
 
 
-![GitHub Logo](/images/manager_low_invntory_view.png)
+	**View Low Inventory**
+
+	Option2: Shows low inventory
 
 
-**Add to Inventory**
-
-Option3: Manager can add inventory to the selected product
+	![GitHub Logo](/images/manager_low_invntory_view.png)
 
 
-![GitHub Logo](/images/manager_add_inventory.png)
+	**Add to Inventory**
+
+	Option3: Manager can add inventory to the selected product
 
 
-**Add New Product**
-
-Option4: Manager can Add a new product 
+	![GitHub Logo](/images/manager_add_inventory.png)
 
 
-![GitHub Logo](/images/manager_add_product.png)
+	**Add New Product**
+
+	Option4: Manager can Add a new product 
+
+
+	![GitHub Logo](/images/manager_add_product.png)
 
 
 
@@ -87,7 +87,7 @@ Option4: Manager can Add a new product
 	Views all departments to Supervisor and calculate profit column
 	
 
-<!-- 	![GitHub Logo](/images/supervisor_add_dept.png) -->
+	<!-- 	![GitHub Logo](/images/supervisor_add_dept.png) -->
 
 	
 	**Option2: View Low Inventory**
