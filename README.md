@@ -49,7 +49,7 @@ Option4: Add New Product
 
 **Option2: View Low Inventory**
 
-	 Shows low inventory
+	 Shows low inventory (Products inventory lower than 5)
 
 
 ![GitHub Logo](/images/manager_low_invntory_view.png)
@@ -81,6 +81,7 @@ Option1: View Products for Sale
 Option2: View Low Inventory
 
 	
+
 
 **Option1: View Products for Sale**
 	
