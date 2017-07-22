@@ -17,7 +17,7 @@ var connection = mysql.createConnection({
 connection.connect(function(err) {
     if (err) throw err;
     console.log("connected as id " + connection.threadId);
-    console.log("===============================================================".cyan);
+    console.log("=============================================================================".cyan);
     
     starter();
 });
@@ -43,11 +43,11 @@ function starter(){
 };
 //=========================== Function view Departments ===========================================
 function viewDepartments(){
-    connection.query("SELECT * FROM departments", function(err, res) {
+    connection.query("SELECT department_id, department_name, over_head_costs, product_sales, product_sales -over_head_costs AS Total_Profit FROM departments", function(err, res) {
         if (err) throw err; 
-        console.log("===============================================================".red);
+        console.log("=============================================================================".red);
         viewer(res);
-        console.log("---------------------------------------------------------------".red);
+        console.log("-----------------------------------------------------------------------------".red);
         console.log("  What would you like to do next?\n".bold.italic.cyan);
         starter();
     });
@@ -79,7 +79,7 @@ function addNewDep(){
         },
         function(err, res) {
             if (err) throw err;
-            console.log("===============================================================".red);
+            console.log("=============================================================================".red);
             console.log(res.affectedRows + "  New department Inserted Successfully!".cyan.bold.italic);
             viewDepartments();
         });

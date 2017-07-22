@@ -23,7 +23,7 @@
 		update the sales data in department table
 
 
-![GitHub Logo](/images/customerBuy.png)
+![GitHub Logo](/images/customer_view.png)
 
 
 ### L-2: Manager Level
@@ -85,10 +85,12 @@
 
 #### Option1: View Products for Sale
 	
-	 Views all departments to Supervisor and calculate profit column
+	 Views all departments to Supervisor and calculate profit column and make an 
+	 
+	 alias column with name of total_profit
 	
 
-<!-- 	![GitHub Logo](/images/supervisor_add_dept.png) -->
+![GitHub Logo](/images/Spervisor_view.png)
 
 	
 #### Option2: View Low Inventory

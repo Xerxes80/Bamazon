@@ -18,7 +18,7 @@ connection.connect(function(err) {
     if (err) throw err;
     console.log("connected as id " + connection.threadId);
    
-    connection.query("SELECT id, product_name, department_name, price FROM products", function(err, res) {
+    connection.query("SELECT id AS Code, product_name AS Item, department_name AS Department, price AS Price FROM products", function(err, res) {
         if (err) throw err;
         viewer(res);
         starter();
