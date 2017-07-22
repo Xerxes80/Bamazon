@@ -18,6 +18,7 @@ connection.connect(function(err) {
     if (err) throw err;
     console.log("connected as id " + connection.threadId);
     console.log("===============================================================".cyan);
+    
     starter();
 });
 //====================== Ens of connection.connect =======================================
@@ -78,12 +79,9 @@ function addNewDep(){
         },
         function(err, res) {
             if (err) throw err;
-            console.log(res.affectedRows + "  New department Inserted Successfully!".cyan.bold.italic);
             console.log("===============================================================".red);
+            console.log(res.affectedRows + "  New department Inserted Successfully!".cyan.bold.italic);
             viewDepartments();
-            console.log("---------------------------------------------------------------".red);
-            console.log("  What would you like to do next?\n".bold.italic.cyan);
-            starter();
         });
      });
 }
