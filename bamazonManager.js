@@ -155,8 +155,9 @@ function addProduct(){
                     stock_quantity: answers.qty
                 },
                 function(err, res) {
-                   console.log(res.affectedRows + "  Product Inserted Successfully!".cyan.bold.italic);
-                   viewProducts();  
+                    if(err) throw err; 
+                    console.log(res.affectedRows + "  Product Inserted Successfully!".cyan.bold.italic);
+                    viewProducts();  
                 }
             );
     }); 
