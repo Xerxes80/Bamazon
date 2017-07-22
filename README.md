@@ -10,7 +10,7 @@
 
 
 
-**L-1: Customer level :**
+###L-1: Customer level :
 
 		It shows the list of products to customer and ask witch item and how many 
 
@@ -26,7 +26,7 @@
 ![GitHub Logo](/images/customerBuy.png)
 
 
-**L-2: Manager Level**
+###L-2: Manager Level
 
 In this level manager has 4 options 
 
@@ -39,7 +39,7 @@ Option3: Add to Inventory
 Option4: Add New Product
 
 
-**Option1: View Products for Sale**
+####Option1: View Products for Sale
 
 	 Shows all the products
 
@@ -47,7 +47,7 @@ Option4: Add New Product
 ![GitHub Logo](/images/managerview.png)
 
 
-**Option2: View Low Inventory**
+####Option2: View Low Inventory
 
 	 Shows low inventory (Products inventory lower than 5)
 
@@ -55,7 +55,7 @@ Option4: Add New Product
 ![GitHub Logo](/images/manager_low_invntory_view.png)
 
 
-**Option3: Add to Inventory**
+####Option3: Add to Inventory
 
 	 Manager can add inventory to the selected product
 
@@ -63,7 +63,7 @@ Option4: Add New Product
 ![GitHub Logo](/images/manager_add_inventory.png)
 
 
-**Option4: Add New Product**
+####Option4: Add New Product
 
 	 Manager can Add a new product 
 
@@ -72,7 +72,7 @@ Option4: Add New Product
 
 
 
-**L-3: Supervisor Level**
+###L-3: Supervisor Level
 
 In this level Supervisor has 2 options 
 
@@ -83,7 +83,7 @@ Option2: View Low Inventory
 	
 
 
-**Option1: View Products for Sale**
+####Option1: View Products for Sale
 	
 	 Views all departments to Supervisor and calculate profit column
 	
@@ -91,7 +91,7 @@ Option2: View Low Inventory
 <!-- 	![GitHub Logo](/images/supervisor_add_dept.png) -->
 
 	
-**Option2: View Low Inventory**
+####Option2: View Low Inventory
 
 	 Supervisor can add new department 
 	
