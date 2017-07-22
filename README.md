@@ -30,13 +30,13 @@
 
 **In this level manager has 4 options** 
 
-Option1: View Products for Sale
+	Option1: View Products for Sale
 
-Option2: View Low Inventory
+	Option2: View Low Inventory
 
-Option3: Add to Inventory
+	Option3: Add to Inventory
 
-Option4: Add New Product
+	Option4: Add New Product
 
 
 #### Option1: View Products for Sale
@@ -74,11 +74,11 @@ Option4: Add New Product
 
 ### L-3: Supervisor Level
 
-In this level Supervisor has 2 options 
+**In this level Supervisor has 2 options** 
 
-Option1: View Products for Sale
+	Option1: View Products for Sale
 
-Option2: View Low Inventory
+	Option2: View Low Inventory
 
 	
 
