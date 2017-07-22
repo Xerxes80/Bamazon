@@ -1,16 +1,16 @@
 # Bamazon
 
-This Application has three different levels
+	This Application has three different levels
 
-**Level-1: Customer level**
+	Level-1: Customer level
 
-**Level-2: Manager Level**
+	Level-2: Manager Level
 
-**Level-3: Supervisor Level**
+	Level-3: Supervisor Level
 
 
 
-	**L-1: Customer level :**
+**L-1: Customer level :**
 
 	It shows the list of products to customer and ask witch item and how many 
 
@@ -26,20 +26,20 @@ This Application has three different levels
 ![GitHub Logo](/images/customerBuy.png)
 
 
-	**L-2: Manager Level**
+**L-2: Manager Level**
 
-	In this level manager has 4 options 
+In this level manager has 4 options 
 
-	Option1: View Products for Sale
+Option1: View Products for Sale
 
-	Option2: View Low Inventory
+Option2: View Low Inventory
 
-	Option3: Add to Inventory
+Option3: Add to Inventory
 
-	Option4: Add New Product
+Option4: Add New Product
 
 
-	**View Products for Sale**
+**View Products for Sale**
 
 	Option1: Shows all the products
 
@@ -47,7 +47,7 @@ This Application has three different levels
 ![GitHub Logo](/images/managerview.png)
 
 
-	**View Low Inventory**
+**View Low Inventory**
 
 	Option2: Shows low inventory
 
@@ -55,7 +55,7 @@ This Application has three different levels
 ![GitHub Logo](/images/manager_low_invntory_view.png)
 
 
-	**Add to Inventory**
+**Add to Inventory**
 
 	Option3: Manager can add inventory to the selected product
 
@@ -63,7 +63,7 @@ This Application has three different levels
 ![GitHub Logo](/images/manager_add_inventory.png)
 
 
-	**Add New Product**
+**Add New Product**
 
 	Option4: Manager can Add a new product 
 
@@ -72,7 +72,7 @@ This Application has three different levels
 
 
 
-	**L-3: Supervisor Level**
+**L-3: Supervisor Level**
 
 	In this level Supervisor has 2 options 
 
@@ -82,7 +82,7 @@ This Application has three different levels
 
 	
 
-	**Option1: View Products for Sale**
+**Option1: View Products for Sale**
 	
 	Views all departments to Supervisor and calculate profit column
 	
@@ -90,7 +90,7 @@ This Application has three different levels
 <!-- 	![GitHub Logo](/images/supervisor_add_dept.png) -->
 
 	
-	**Option2: View Low Inventory**
+**Option2: View Low Inventory**
 
 	Supervisor can add new department 
 	
