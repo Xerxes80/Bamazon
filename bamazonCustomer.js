@@ -61,6 +61,7 @@ function buy(itemId, qty){
             console.log("==============================================================".cyan);
             updateQty(itemId, newQty);
             sales(dept, newCost, newSale);
+            starter();
         };
     });
 };
