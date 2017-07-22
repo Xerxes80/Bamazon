@@ -2,15 +2,15 @@
 
 	This Application has three different levels
 
-	Level-1: Customer level
+####	Level-1: Customer level
 
-	Level-2: Manager Level
+####	Level-2: Manager Level
 
-	Level-3: Supervisor Level
+####	Level-3: Supervisor Level
 
 
 
-### L-1: Customer level :
+### L-1: Customer level
 
 		It shows the list of products to customer and ask witch item and how many 
 
@@ -28,7 +28,7 @@
 
 ### L-2: Manager Level
 
-In this level manager has 4 options 
+**In this level manager has 4 options** 
 
 Option1: View Products for Sale
 
